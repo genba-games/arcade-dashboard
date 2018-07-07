@@ -10,6 +10,8 @@ django = "*"
 
 [dev-packages]
 ipython = "*"
+"autopep8" = "*"
+pylint-django = "*"
 
 [requires]
 python_version = "3.6"
